@@ -13,3 +13,4 @@ export const environment = {
  * because it will have performance impact when throw error
  */
 // import 'zone.js/dist/zone-error';  // Included with Angular CLI.
+export const CLIENT_ID = '7751b1c9d1ce47a4bb87a45552bd5df7';
